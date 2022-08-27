@@ -1,0 +1,3 @@
+package com.debduttapanda.viewmodeltest.network
+
+interface ApiResponse
