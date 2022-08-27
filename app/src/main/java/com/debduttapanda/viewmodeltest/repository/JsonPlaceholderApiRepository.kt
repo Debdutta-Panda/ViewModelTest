@@ -1,4 +1,4 @@
-package com.debduttapanda.viewmodeltest.network
+package com.debduttapanda.viewmodeltest.repository
 
 import com.debduttapanda.viewmodeltest.model.UserData
 import com.debduttapanda.viewmodeltest.network.UserApis

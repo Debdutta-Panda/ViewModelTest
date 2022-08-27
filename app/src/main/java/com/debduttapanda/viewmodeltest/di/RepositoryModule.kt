@@ -1,7 +1,7 @@
 package com.debduttapanda.viewmodeltest.di
 
 import com.debduttapanda.viewmodeltest.Constants.OA_REPO
-import com.debduttapanda.viewmodeltest.network.JsonPlaceholderApiRepository
+import com.debduttapanda.viewmodeltest.repository.JsonPlaceholderApiRepository
 import com.debduttapanda.viewmodeltest.repository.UserRepository
 import dagger.Binds
 import dagger.Module
